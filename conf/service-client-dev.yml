@@ -2,3 +2,4 @@
 server:
   port: 8801
 id: hello world!
+foo: foo version 3
