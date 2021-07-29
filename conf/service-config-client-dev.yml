@@ -1,4 +1,4 @@
 
 server:
   port: 8881
-foo: foo version 8881
+foo: hello, this is remote config!
