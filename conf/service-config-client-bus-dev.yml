@@ -1,3 +1,2 @@
-server:
-  port: 9993
+
 foo: hello, this is github bus config! test RefreshScope +1
