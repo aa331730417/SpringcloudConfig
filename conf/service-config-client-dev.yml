@@ -1,4 +1,4 @@
 
 server:
   port: 9999
-foo: hello, this is remote config! test RefreshScope +1
+foo: hello, this is github config! 
