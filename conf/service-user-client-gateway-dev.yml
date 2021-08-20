@@ -1,1 +1,3 @@
-foo: foo version 9201 update1
+server:
+  port: 9999
+foo: hello, this is remote config! test RefreshScope +1
